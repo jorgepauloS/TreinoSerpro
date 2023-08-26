@@ -1,0 +1,16 @@
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Domain/Models/SaidaVeiculo.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Infrastructure/Repositories/VeiculoRepository.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Infrastructure/Factories/RepositoryFactory.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Domain/Interfaces/IFuncionarioRepository.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Domain/Models/Funcionario.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Infrastructure/SQLite/Structure.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Domain/Interfaces/IVeiculoRepository.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Application/BusinessLogic/FuncionarioBLL.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Main.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Application/Interfaces/IVeiculoBLL.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Domain/Models/Veiculo.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Application/Interfaces/IFuncionarioBLL.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Infrastructure/Repositories/FuncionarioRepository.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Infrastructure/Repositories/FuncionarioSQLiteRepository.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Application/Factory/BusinessLogicFactory.java
+/Users/jorgepaulo/Documents/Códigos/Serpro/TreinoSerpro/Java/src/main/java/com/funcionariosveiculos/Application/BusinessLogic/VeiculoBLL.java
